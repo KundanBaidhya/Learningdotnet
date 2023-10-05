@@ -1,0 +1,7 @@
+D:\learningdotnet\bin\Debug\learningdotnet.exe.config
+D:\learningdotnet\bin\Debug\learningdotnet.exe
+D:\learningdotnet\bin\Debug\learningdotnet.pdb
+D:\learningdotnet\obj\Debug\learningdotnet.csproj.AssemblyReference.cache
+D:\learningdotnet\obj\Debug\learningdotnet.csproj.CoreCompileInputs.cache
+D:\learningdotnet\obj\Debug\learningdotnet.exe
+D:\learningdotnet\obj\Debug\learningdotnet.pdb
