@@ -1,24 +1,14 @@
 ﻿using System;
-
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace learningdotnet
 {
-    internal class dog
+    public class Dog
     {
-
-        public static void bark()
+        public Dog()
         {
-            Console.WriteLine("hey im barking");
-            Console.ReadLine();
-        }
-        public void Run()
-        {
-            Console.WriteLine("hey im running");
-            Console.ReadLine();
-        }
-        
-        public dog()
-        {
+            public string name = "tommy";
 
         }
     }

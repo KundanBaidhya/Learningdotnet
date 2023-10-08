@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Security.Cryptography.X509Certificates;
 
 namespace learningdotnet
 {
@@ -7,7 +7,9 @@ namespace learningdotnet
     {
         static void Main(string[] args)
         {
-            dog.bark();
+            Dog dogobj = new Dog();
+            
+            Console.WriteLine(dogobj.name);
         }
     }
 }
