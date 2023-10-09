@@ -6,10 +6,11 @@ namespace learningdotnet
 {
     public class Dog
     {
+        //fixed the error
+        public static string name = "tommy";
         public Dog()
-        {
-            public string name = "tommy";
+        { }
+            
 
-        }
     }
 }

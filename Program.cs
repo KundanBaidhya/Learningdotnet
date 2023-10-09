@@ -7,9 +7,7 @@ namespace learningdotnet
     {
         static void Main(string[] args)
         {
-            Dog dogobj = new Dog();
-            
-            Console.WriteLine(dogobj.name);
+            Console.WriteLine(Dog.name);
         }
     }
 }
